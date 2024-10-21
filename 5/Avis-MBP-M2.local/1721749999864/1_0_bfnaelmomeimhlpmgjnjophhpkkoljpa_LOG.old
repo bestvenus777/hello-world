@@ -1,0 +1,71 @@
+2024/05/30-17:25:56.934 11c03 Reusing MANIFEST /Users/aviaryan/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Extension Settings/bfnaelmomeimhlpmgjnjophhpkkoljpa/MANIFEST-000001
+2024/05/30-17:25:56.938 11c03 Recovering log #5604
+2024/05/30-17:25:56.941 11c03 Reusing old log /Users/aviaryan/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Extension Settings/bfnaelmomeimhlpmgjnjophhpkkoljpa/005604.log 
+2024/05/30-17:51:24.283 8a03 Level-0 table #5608: started
+2024/05/30-17:51:24.308 8a03 Level-0 table #5608: 2388061 bytes OK
+2024/05/30-17:51:24.322 8a03 Delete type=0 #5604
+2024/05/30-19:04:45.540 8a03 Compacting 3@0 + 1@1 files
+2024/05/30-19:04:45.563 8a03 Generated table #5609@0: 5 keys, 1316382 bytes
+2024/05/30-19:04:45.563 8a03 Compacted 3@0 + 1@1 files => 1316382 bytes
+2024/05/30-19:04:45.571 8a03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/30-19:04:45.572 8a03 Delete type=2 #5608
+2024/05/30-19:04:45.572 8a03 Delete type=2 #5603
+2024/05/30-19:04:45.572 8a03 Delete type=2 #5601
+2024/05/30-19:04:45.572 8a03 Delete type=2 #5605
+2024/05/30-19:24:46.712 8a03 Level-0 table #5611: started
+2024/05/30-19:24:46.728 8a03 Level-0 table #5611: 2387934 bytes OK
+2024/05/30-19:24:46.742 8a03 Delete type=0 #5607
+2024/05/30-20:14:58.831 8a03 Level-0 table #5613: started
+2024/05/30-20:14:58.846 8a03 Level-0 table #5613: 2383286 bytes OK
+2024/05/30-20:14:58.856 8a03 Delete type=0 #5610
+2024/05/30-20:32:08.675 f403 Compacting 1@1 + 1@2 files
+2024/05/30-20:32:08.685 f403 Generated table #5614@1: 12 keys, 1399148 bytes
+2024/05/30-20:32:08.685 f403 Compacted 1@1 + 1@2 files => 1399148 bytes
+2024/05/30-20:32:08.693 f403 compacted to: files[ 2 0 1 0 0 0 0 ]
+2024/05/30-20:32:08.694 f403 Delete type=2 #5520
+2024/05/30-20:32:08.694 f403 Delete type=2 #5609
+2024/05/30-21:42:42.438 8a03 Level-0 table #5616: started
+2024/05/30-21:42:42.452 8a03 Level-0 table #5616: 2387950 bytes OK
+2024/05/30-21:42:42.462 8a03 Delete type=0 #5612
+2024/05/30-23:05:35.437 8a03 Level-0 table #5618: started
+2024/05/30-23:05:35.457 8a03 Level-0 table #5618: 2383342 bytes OK
+2024/05/30-23:05:35.467 8a03 Delete type=0 #5615
+2024/05/30-23:05:35.468 8407 Compacting 4@0 + 0@1 files
+2024/05/30-23:05:35.488 8407 Generated table #5619@0: 2 keys, 597081 bytes
+2024/05/30-23:05:35.488 8407 Compacted 4@0 + 0@1 files => 597081 bytes
+2024/05/30-23:05:35.496 8407 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/30-23:05:35.496 8407 Delete type=2 #5618
+2024/05/30-23:05:35.496 8407 Delete type=2 #5616
+2024/05/30-23:05:35.496 8407 Delete type=2 #5611
+2024/05/30-23:05:35.496 8407 Delete type=2 #5613
+2024/05/31-08:51:10.360 8a03 Level-0 table #5621: started
+2024/05/31-08:51:10.381 8a03 Level-0 table #5621: 2388058 bytes OK
+2024/05/31-08:51:10.391 8a03 Delete type=0 #5617
+2024/05/31-09:19:00.743 8a03 Compacting 1@0 + 1@1 files
+2024/05/31-09:19:00.756 8a03 Generated table #5622@0: 2 keys, 597062 bytes
+2024/05/31-09:19:00.757 8a03 Compacted 1@0 + 1@1 files => 597062 bytes
+2024/05/31-09:19:00.766 8a03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/31-09:19:00.767 8a03 Delete type=2 #5621
+2024/05/31-09:19:00.767 8a03 Delete type=2 #5619
+2024/05/31-16:48:03.881 f403 Level-0 table #5624: started
+2024/05/31-16:48:03.894 f403 Level-0 table #5624: 2388081 bytes OK
+2024/05/31-16:48:03.905 f403 Delete type=0 #5620
+2024/05/31-19:25:45.680 8a03 Level-0 table #5626: started
+2024/05/31-19:25:45.699 8a03 Level-0 table #5626: 2390365 bytes OK
+2024/05/31-19:25:45.709 8a03 Delete type=0 #5623
+2024/05/31-20:28:47.244 8a03 Compacting 2@0 + 1@1 files
+2024/05/31-20:28:47.260 8a03 Generated table #5627@0: 2 keys, 597663 bytes
+2024/05/31-20:28:47.260 8a03 Compacted 2@0 + 1@1 files => 597663 bytes
+2024/05/31-20:28:47.289 8a03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/31-20:28:47.290 8a03 Delete type=2 #5622
+2024/05/31-20:28:47.290 8a03 Delete type=2 #5624
+2024/05/31-20:28:47.290 8a03 Delete type=2 #5626
+2024/05/31-20:42:18.907 8a03 Level-0 table #5629: started
+2024/05/31-20:42:18.925 8a03 Level-0 table #5629: 2390799 bytes OK
+2024/05/31-20:42:18.937 8a03 Delete type=0 #5625
+2024/05/31-23:14:05.149 b603 Level-0 table #5631: started
+2024/05/31-23:14:05.177 b603 Level-0 table #5631: 2390941 bytes OK
+2024/05/31-23:14:05.188 b603 Delete type=0 #5628
+2024/06/01-08:21:40.428 8a03 Level-0 table #5633: started
+2024/06/01-08:21:40.442 8a03 Level-0 table #5633: 2390895 bytes OK
+2024/06/01-08:21:40.457 8a03 Delete type=0 #5630
